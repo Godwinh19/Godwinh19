@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Godwin
-- 👀 I’m interested in AI/ML - web development 
+- 👀 I’m interested in  things related to software development - data - AI/ML - soft skills
 - 🌱 I’m currently learning more on data visualization tools :D
-- 💞️ I’m looking to collaborate on all things related to AI and Python
+- 💞️ I’m looking to collaborate on open source projects - development ---
 - 📫 Reach me on [twitter](https://twitter.com/GodwinHoudji)
 
 <!---
