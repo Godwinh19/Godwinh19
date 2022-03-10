@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Godwinh19&color=green)
+
 - 👋 Hi, I’m @Godwin
 - 👀 I’m interested in  things related to software development - data - AI/ML - soft skills
 - 🌱 I’m currently learning more on data visualization tools :D
@@ -28,3 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 **ML/DL**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+<p align="center">
+
+<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=Godwinh19&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+
+<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Godwinh19&hide_border=true" />
+
+</p>
